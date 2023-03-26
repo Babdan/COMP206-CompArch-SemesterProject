@@ -9,7 +9,7 @@ The primary objective of this project is to create a unique Pong-like game using
 -Sena Güngörmez
 -Merve Nur Karabulut
 
-<h3>  Sources used:  </h3>
+<h2>  Sources used:  </h2>
 
 [1] C. Kann, “Introduction To MIPS Assembly Language Programming,” LibreTexts. [Online]. Available: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann)
 
