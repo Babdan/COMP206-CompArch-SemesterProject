@@ -8,3 +8,13 @@ The primary objective of this project is to create a unique Pong-like game using
 -Meliha Koç
 -Sena Güngörmez
 -Merve Nur Karabulut
+
+<h2>  Sources used:  </h2>
+
+[1] C. Kann, “Introduction To MIPS Assembly Language Programming,” LibreTexts. [Online]. Available: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann)
+
+[2] “Introduction to MIPS Assembly Language Programming,” Open Textbook Library. [Online]. Available: https://open.umn.edu/opentextbooks/textbooks/497
+
+[3] “MIPS Reference Sheet,” University of Arizona. [Online]. Available: https://uweb.engr.arizona.edu/~ece369/Resources/spim/MIPSReference.pdf
+
+[4] A. Hamm, “MIPS-Pong,” GitHub. [Online]. Available: https://github.com/AndrewHamm/MIPS-Pong 
